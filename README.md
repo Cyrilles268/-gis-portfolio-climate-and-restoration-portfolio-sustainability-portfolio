@@ -5,6 +5,7 @@ Natural Resources Management Specialist | MSc Environmental Science Researcher |
 ## About Me
 Natural Resources Management Specialist with experience in:
 - Landscape restoration
+- Carbon Projects implementation
 - Environmental monitoring
 - GIS and mapping
 - Climate adaptation
